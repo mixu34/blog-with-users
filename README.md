@@ -1,0 +1,1 @@
+A blog website with user authentication and database integration. Made with Flask framework. Users can create, edit and delete their posts. In addition they can comment any post. Upon post deletion all comments are cascade deleted.
